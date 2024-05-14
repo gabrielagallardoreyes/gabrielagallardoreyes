@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriela Gallardo Reyes</h1>
 <h3 align="center">A junior and passionate full Stack Python Developer from Chile</h3>
 
-- 🌱 I’m currently learning **Diplomado en Diseño y Programación web**
-
 - 💬 Ask me about **HTML5, CSS, JavaScript, MySQL, Flask, Python**
 
 - 📫 How to reach me **gabs.gallardo@gmail.com | www.linkedin.com/in/gabrielagallardoreyes**
